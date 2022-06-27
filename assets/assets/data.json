@@ -1,0 +1,93 @@
+[
+  {
+    "id": 11,
+    "imageName": "hpay.jpg",
+    "title": "Himalaya Pay",
+    "description": "",
+    "link": "https://apps.apple.com/ie/app/himalaya-pay/id1595618435"
+  },
+  {
+    "id": 5,
+    "imageName": "vitaminler.jpg",
+    "title": "Vitaminler",
+    "description": "",
+    "link": "https://apps.apple.com/ie/app/vitaminler/id1124823683"
+  },
+  {
+    "id": 6,
+    "imageName": "fitmoda.jpg",
+    "title": "Fitmoda",
+    "description": "",
+    "link": "https://apps.apple.com/ie/app/fitmoda-com/id1513873541"
+  },
+  {
+    "id": 4,
+    "imageName": "supplementler.jpg",
+    "title": "Supplementler",
+    "description": "",
+    "link": "https://apps.apple.com/ie/app/supplementler-com/id695510016"
+  },
+  {
+    "id": 3,
+    "imageName": "sweaters.jpg",
+    "title": "Sweaters",
+    "description": "Sweat Together",
+    "link": "https://apps.apple.com/us/app/sweaters/id1194530904"
+  },
+  {
+    "id": 0,
+    "imageName": "btuner-ios.jpg",
+    "title": "Baglama Tuner iOS",
+    "description": "Tune your baglama without no hassle.",
+    "link": "https://apps.apple.com/uk/app/id1483520594"
+  },
+  {
+    "id": 1,
+    "imageName": "btuner-android.jpg",
+    "title": "Baglama Tuner Android",
+    "description": "Tune your baglama without no hassle.",
+    "link": "https://play.google.com/store/apps/details?id=com.baglamatuner&hl=en&gl=US"
+  },
+  {
+    "id": 7,
+    "imageName": "istanbulpos.jpg",
+    "title": "IstanbulPos",
+    "description": "",
+    "link": "https://apps.apple.com/gb/app/i-stanbulpos/id1579242776"
+  },
+  {
+    "id": 2,
+    "imageName": "staroke.jpg",
+    "title": "Staroke",
+    "description": "Karaoke - Sing Together",
+    "link": "https://www.instagram.com/staroke/?hl=en"
+  },
+  {
+    "id": 8,
+    "imageName": "tomya.jpg",
+    "title": "Tomya",
+    "description": "",
+    "link": "https://tomya.com/"
+  },
+  {
+    "id": 9,
+    "imageName": "questha.jpg",
+    "title": "Questha",
+    "description": "",
+    "link": "https://apps.apple.com/my/app/questha/id1603095639"
+  },
+  {
+    "id": 10,
+    "imageName": "habgusta.jpg",
+    "title": "Habgusta",
+    "description": "",
+    "link": "https://apps.apple.com/us/app/habgusta/id1471788781?platform=iphone"
+  },
+  {
+    "id": 12,
+    "imageName": "audio-converter.jpg",
+    "title": "Audio Converter",
+    "description": "",
+    "link": "https://apps.apple.com/gb/app/id1627929759"
+  }
+]
