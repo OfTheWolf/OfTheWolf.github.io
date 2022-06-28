@@ -3,91 +3,91 @@
     "id": 11,
     "imageName": "hpay.jpg",
     "title": "Himalaya Pay",
-    "description": "",
+    "description": "Crypto payment app for Himalaya ecosystem.",
     "link": "https://apps.apple.com/ie/app/himalaya-pay/id1595618435"
   },
   {
     "id": 5,
     "imageName": "vitaminler.jpg",
     "title": "Vitaminler",
-    "description": "",
+    "description": "Turkey's leading vitamins, minerals, supplements and herbal products provider.",
     "link": "https://apps.apple.com/ie/app/vitaminler/id1124823683"
   },
   {
     "id": 6,
     "imageName": "fitmoda.jpg",
     "title": "Fitmoda",
-    "description": "",
+    "description": "E-commerce platform for sports apparel, sports accessories, fitness equipments.",
     "link": "https://apps.apple.com/ie/app/fitmoda-com/id1513873541"
   },
   {
     "id": 4,
     "imageName": "supplementler.jpg",
     "title": "Supplementler",
-    "description": "",
+    "description": "Turkey's leading supplements and sports nutrition provider.",
     "link": "https://apps.apple.com/ie/app/supplementler-com/id695510016"
   },
   {
     "id": 3,
     "imageName": "sweaters.jpg",
     "title": "Sweaters",
-    "description": "Sweat Together",
+    "description": "A social platform for sports community.",
     "link": "https://apps.apple.com/us/app/sweaters/id1194530904"
   },
   {
     "id": 0,
     "imageName": "btuner-ios.jpg",
     "title": "Baglama Tuner iOS",
-    "description": "Tune your baglama without no hassle.",
+    "description": "Instrument tuner, real time pitch detector.",
     "link": "https://apps.apple.com/uk/app/id1483520594"
   },
   {
     "id": 1,
     "imageName": "btuner-android.jpg",
     "title": "Baglama Tuner Android",
-    "description": "Tune your baglama without no hassle.",
+    "description": "Instrument tuner, real time pitch detector.",
     "link": "https://play.google.com/store/apps/details?id=com.baglamatuner&hl=en&gl=US"
   },
   {
     "id": 7,
     "imageName": "istanbulpos.jpg",
     "title": "IstanbulPos",
-    "description": "",
+    "description": "NFC payment via Istanbul card which is used for transport in Istanbul",
     "link": "https://apps.apple.com/gb/app/i-stanbulpos/id1579242776"
   },
   {
     "id": 2,
     "imageName": "staroke.jpg",
     "title": "Staroke",
-    "description": "Karaoke - Sing Together",
+    "description": "Karaoke and duet platform.",
     "link": "https://www.instagram.com/staroke/?hl=en"
   },
   {
     "id": 8,
     "imageName": "tomya.jpg",
     "title": "Tomya",
-    "description": "",
+    "description": "Crypto trading platform.",
     "link": "https://tomya.com/"
   },
   {
     "id": 9,
     "imageName": "questha.jpg",
     "title": "Questha",
-    "description": "",
+    "description": "Online polls with AI generated questions.",
     "link": "https://apps.apple.com/my/app/questha/id1603095639"
   },
   {
     "id": 10,
     "imageName": "habgusta.jpg",
     "title": "Habgusta",
-    "description": "",
+    "description": "Austria's local online delivery service.",
     "link": "https://apps.apple.com/us/app/habgusta/id1471788781?platform=iphone"
   },
   {
     "id": 12,
     "imageName": "audio-converter.jpg",
     "title": "Audio Converter",
-    "description": "",
+    "description": "Converts between audio formats.",
     "link": "https://apps.apple.com/gb/app/id1627929759"
   }
 ]
