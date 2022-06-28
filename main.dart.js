@@ -17578,7 +17578,7 @@ var $async$Vu=A.a0(function(a,b){if(a===1)return A.X(b,r)
 while(true)switch(s){case 0:p=J
 o=B.ad
 s=3
-return A.S($.kT().a06("data.json"),$async$Vu)
+return A.S($.kT().a06("assets/data.json"),$async$Vu)
 case 3:q=p.zs(o.ET(0,b,null),new A.Vv(),t.Fx).dW(0)
 s=1
 break
